@@ -85,8 +85,6 @@ per genre", "top platforms by release year") a straightforward SQL `JOIN` +
 
 ## Screenshots
 
-_Add a screenshot or GIF of the running dashboard here once deployed —
-this is what recruiters/hiring managers will actually look at first._
 
 ## Tech stack
 
